@@ -1,6 +1,7 @@
 # FizzBuzzer app
 
 This application is about showing basic setup of C# project, with some dependency injection. Use for educational purposes
+Requires .NET 8
 
 # Commands for building project from scratch
 
